@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="121.7199935913086" height="39.189998626708984" viewBox="-0.20998963713645935 -0.08999985456466675 121.7199935913086 39.189998626708984" version="1.1">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-1" stroke="none" fill-rule="evenodd">
+        <g id="画板-28">
+            <rect id="Rectangle-path" fill="#B4720D" fill-rule="nonzero" transform="matrix(-1,-1.2246467991473532e-16,1.2246467991473532e-16,-1,181.93,8.440000000000012)" x="88.93" y="2.76" width="4.07" height="2.92" stroke-width="1"/>
+            <rect id="Rectangle-path" fill="#AB9E11" fill-rule="nonzero" transform="matrix(-1,1.2246467991473532e-16,-1.2246467991473532e-16,-1,181.93,3.499999999999989)" x="87.82" y="0.41" width="6.29" height="2.68" rx="1.34" stroke-width="1"/>
+            <path d="M119.87,6.47 C119.447219,11.2892188 118.045275,15.9714405 115.75,20.23 C112.05,26.77 110.81,27.94 108.9,29.86 C106.99,31.78 97.42,37.39 88.35,37.86 C79.28,38.33 50.15,38.6 50.15,38.6 L47.31,5.4 L102.31,6.02 L119.87,6.47 Z" id="Shape" fill="#B17300" fill-rule="nonzero" stroke-width="1"/>
+            <path d="M47.89,12 L118.94,12 C118.521211,13.704725 117.976379,15.3759893 117.31,17 L48.31,17 L47.89,12 Z" id="Shape" stroke-width="1" fill="none"/>
+            <path d="M109,29.73 L108.88,29.85 C106.97,31.76 97.4,37.38 88.33,37.85 C79.26,38.32 50.13,38.59 50.13,38.59 L49.38,29.77 L109,29.73 Z" id="Shape" stroke-width="1" fill="none"/>
+            <path d="M47.32,5.36 L102.32,5.98 L119.92,6.47 C119.800908,7.96386268 119.577023,9.44751431 119.25,10.91 L47.79,10.91 L47.32,5.36 Z" id="Shape" stroke-width="1" fill="none"/>
+            <path d="M48.41,18.13 L116.82,18.13 C116.5,18.83 116.14,19.53 115.75,20.23 C115.12,21.34 114.56,22.3 114.06,23.13 L48.84,23.13 L48.41,18.13 Z" id="Shape" stroke-width="1" fill="none"/>
+            <path d="M47.79,10.91 L119.19,10.91 C119.11,11.27 119.03,11.64 118.93,12.02 L47.89,12.02 L47.79,10.91 Z" id="Shape" fill="#62450C" fill-rule="nonzero" stroke-width="1"/>
+            <path d="M48.31,17 L117.31,17 C117.156667,17.3666667 116.996667,17.7366667 116.83,18.11 L48.41,18.11 L48.31,17 Z" id="Shape" fill="#62450C" fill-rule="nonzero" stroke-width="1"/>
+            <path d="M48.84,23.13 L114.06,23.13 C112.730506,25.566202 111.045326,27.7906404 109.06,29.73 L49.4,29.73 L48.84,23.13 Z" id="Shape" fill="#62450C" fill-rule="nonzero" stroke-width="1"/>
+            <path d="M119.41,13.78 L104.5,13.78 L104.5,19.78 L116.72,19.78 C116.72,19.78 117.55,19.18 118.48,16.49 L119.41,13.78 Z" id="Shape" fill="#DE8202" fill-rule="nonzero" stroke-width="1"/>
+            <circle id="Oval" fill="#62450C" fill-rule="nonzero" cx="113.02" cy="16.46" r="1" stroke-width="1"/>
+            <circle id="Oval" fill="#62450C" fill-rule="nonzero" cx="106.37" cy="16.46" r="1" stroke-width="1"/>
+            <path d="M2.05,6.47 C2.47278116,11.2892188 3.87472544,15.9714405 6.17,20.23 C9.87,26.77 11.11,27.94 13.02,29.86 C14.93,31.78 24.5,37.39 33.57,37.86 C42.64,38.33 71.77,38.6 71.77,38.6 L74.61,5.4 L19.61,6.02 L2.05,6.47 Z" id="Shape" fill="#B17300" fill-rule="nonzero" stroke-width="1"/>
+            <path d="M74,12 L3,12 C3.418789,13.704725 3.96362114,15.3759893 4.63,17 L73.63,17 L74,12 Z" id="Shape" stroke-width="1" fill="none"/>
+            <path d="M12.9,29.73 L13.02,29.85 C14.93,31.76 24.5,37.38 33.57,37.85 C42.64,38.32 71.77,38.59 71.77,38.59 L72.52,29.77 L12.9,29.73 Z" id="Shape" stroke-width="1" fill="none"/>
+            <path d="M74.61,5.36 L19.61,5.98 L2.01,6.47 C2.12909229,7.96386268 2.35297665,9.44751431 2.68,10.91 L74.08,10.91 L74.61,5.36 Z" id="Shape" stroke-width="1" fill="none"/>
+            <path d="M73.51,18.13 L5.1,18.13 C5.42,18.83 5.78,19.53 6.17,20.23 C6.8,21.34 7.36,22.3 7.86,23.13 L73.09,23.13 L73.51,18.13 Z" id="Shape" stroke-width="1" fill="none"/>
+            <path d="M74.13,10.91 L2.73,10.91 C2.81,11.27 2.89,11.64 2.99,12.02 L74,12.02 L74.13,10.91 Z" id="Shape" fill="#62450C" fill-rule="nonzero" stroke-width="1"/>
+            <path d="M73.61,17 L4.61,17 C4.76333333,17.3666667 4.92333333,17.7366667 5.09,18.11 L73.51,18.11 L73.61,17 Z" id="Shape" fill="#62450C" fill-rule="nonzero" stroke-width="1"/>
+            <path d="M73.09,23.13 L7.86,23.13 C9.18949368,25.566202 10.8746743,27.7906404 12.86,29.73 L72.52,29.73 L73.09,23.13 Z" id="Shape" fill="#62450C" fill-rule="nonzero" stroke-width="1"/>
+            <path d="M2.52,13.78 L17.42,13.78 L17.42,19.78 L5.2,19.78 C5.2,19.78 4.37,19.18 3.44,16.49 L2.52,13.78 Z" id="Shape" fill="#DE8202" fill-rule="nonzero" stroke-width="1"/>
+            <circle id="Oval" fill="#62450C" fill-rule="nonzero" cx="8.9" cy="16.46" r="1" stroke-width="1"/>
+            <circle id="Oval" fill="#62450C" fill-rule="nonzero" cx="15.55" cy="16.46" r="1" stroke-width="1"/>
+            <rect id="Rectangle-path" fill="#E58B30" fill-rule="nonzero" transform="matrix(-1,-1.2246467991473532e-16,1.2246467991473532e-16,-1,121.3,12.310000000000008)" x="0.29" y="5.3" width="120.72" height="1.71" rx="0.855" stroke-width="1"/>
+        </g>
+    </g>
+</svg>
